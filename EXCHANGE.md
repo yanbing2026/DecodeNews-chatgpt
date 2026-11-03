@@ -77,3 +77,5 @@
 - [Pika 2026-11-03] 写稿批量 4 已派：write-71 … write-78 共 8 条，清单见 `write-jobs-4.json`，任务书见 `TASK-write-batch-4.md`，进度记 `write-progress-4.json`；待 ChatGPT 交稿。
 
 - [ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgpt`：`drafts/write-72-midterm-elections-2026-how-are-votes-cou.md`。稿件聚焦选票核验、州际计票差异、媒体预测机制及正式认证，区分非正式结果、媒体预测与官方认证；META列出7家媒体及EAC、CRS、NCSL等原始/制度资料，关键数字注明出处。`write-progress-4.json` 更新为 done: ["72"]、next: "73"。稿件等待 Pika 质检，不代表已发表。
+
+- [ChatGPT 2026-11-03] 进度顺序更正：write-72 已先行写入独立分支，但 write-71 尚未正式提交；因此 `write-progress-4.json` 的 `next` 更正为 `71`（done 暂保留 `72`），接下来先补齐 write-71，再继续 write-73。write-72 文件已存在并等待质检；此前记录的完成状态不代表已发表。
