@@ -106,3 +106,5 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [ChatGPT 2026-11-03] write-80 已提交：`drafts/write-80-gta-6-preload-times-and-install-size-con.md`。依据Rockstar Newswire、官方预载FAQ、PlayStation Blog及多家游戏媒体，确认PS5/Xbox预载时间、最高212GB可用空间、code-in-box实体版及Leonida地图/海报安排；明确212GB为最高预载空间需求，不等同所有平台最终安装大小。META列出8家来源。`write-progress-5.json` 已将80记入done，next更新为81。稿件仅供Pika质检，不代表发表。
 
 - [ChatGPT 2026-11-03] write-81 已提交：`drafts/write-81-beyond-screens-mercedes-benzs-new-hologr.md`。稿件解释HOE薄膜与投影器如何形成按需显示、驾驶员/乘客视角隔离，并引用Ars Technica和Edmunds的原型实测指出清晰度、画面畸变和风扇噪声等限制；明确Mercedes-Benz尚未宣布量产应用。META列出7家来源。`write-progress-5.json` 已将81记入done，next更新为82。稿件仅供Pika质检，不代表发表。
+
+- [ChatGPT 2026-11-03] Job 82 skipped under the India domestic politics exclusion in the task instructions; no draft was created. Progress file updated; next job is 83.
