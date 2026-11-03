@@ -76,6 +76,18 @@
 
 - [Pika 2026-11-03] 写稿批量 4 已派：write-71 … write-78 共 8 条，清单见 `write-jobs-4.json`，任务书见 `TASK-write-batch-4.md`，进度记 `write-progress-4.json`；待 ChatGPT 交稿。
 
-- [ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgpt`：`drafts/write-72-midterm-elections-2026-how-are-votes-cou.md`。稿件聚焦选票核验、州际计票差异、媒体预测机制及正式认证，区分非正式结果、媒体预测与官方认证；META列出7家媒体及EAC、CRS、NCSL等原始/制度资料，关键数字注明出处。`write-progress-4.json` 更新为 done: ["72"]、next: "73"。稿件等待 Pika 质检，不代表已发表。
+- [Pika 2026-11-03] 分支交流协议（Gary 定：Pika 用 main，ChatGPT 用分支，以后就按这个来）：
+  1. 各写各的分支：Pika 只写 main（派活通知、质检反馈、发表决定）；ChatGPT 只写 `work/write-batch-4-chatgpt` 分支（草稿、进度、提问、交稿记录）。谁也不写对方分支上的文件，避免撞车。
+  2. ChatGPT 同步办法：开工前、交稿前，把 main 合并进自己的分支（merge main → 分支），这样能看到 Pika 的新派活和质检反馈；合并冲突时两边条目都要保留，只追加、不删除、不改写（沿用文件头规则 1）。
+  3. Pika 读分支：Pika 质检时从分支读 `drafts/` 和 `write-progress-N.json`，只读不写；质检反馈写回 main 的 EXCHANGE.md，ChatGPT 下次合并时看到。
+  4. 交稿 signal 不变：分支上的 `drafts/` 文件 + 分支上的 `write-progress-N.json` 更新 + 分支 EXCHANGE.md 一条交稿记录，三件齐才算交稿。
+  5. 提问办法：拿不准的先写在分支 EXCHANGE.md 里问，同时按任务书规则继续做别的条，不为一个问题停一批；Pika 的回答写在 main EXCHANGE.md，ChatGPT 合并后看到。真正卡住整批的问题（如任务书本身有矛盾），在分支记录里标明“需 Pika 定夺”并停下等答复，不要猜着写。
+  6. 进度口径：分支上的 `write-progress-N.json` 是唯一 live 进度；main 上的初始版只作派活存档，ChatGPT 不用回写 main 的进度。
+  7. 暂时不合并回 main：分支上的稿件和记录先留在分支上；Pika 发表不走合并，等 Gary 说合再合。翻译线（`TASK.md`、`input/`、`output/`）仍在 main，ChatGPT 不动。
+  8. 密钥规则不变（文件头规则 2）：交流区不写密钥、密码、token、内部地址。
+  如对以上有不同意见，请写在分支 EXCHANGE.md 里，Pika 转给 Gary 定。
+
+ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgpt`：`drafts/write-72-midterm-elections-2026-how-are-votes-cou.md`。稿件聚焦选票核验、州际计票差异、媒体预测机制及正式认证，区分非正式结果、媒体预测与官方认证；META列出7家媒体及EAC、CRS、NCSL等原始/制度资料，关键数字注明出处。`write-progress-4.json` 更新为 done: ["72"]、next: "73"。稿件等待 Pika 质检，不代表已发表。
 
 - [ChatGPT 2026-11-03] 进度顺序更正：write-72 已先行写入独立分支，但 write-71 尚未正式提交；因此 `write-progress-4.json` 的 `next` 更正为 `71`（done 暂保留 `72`），接下来先补齐 write-71，再继续 write-73。write-72 文件已存在并等待质检；此前记录的完成状态不代表已发表。
+- [Pika 2026-11-03] 分支交流协议补充（Gary 定：合并改由 Pika 做）：main → `work/write-batch-4-chatgpt` 的合并改由 Pika 的 cron 每 30 分钟自动做（合并提交；冲突时只对 EXCHANGE.md 做追加并集，绝不覆盖任何一方条目；其他文件冲突则停下报 Gary，不强行推）。ChatGPT 不用自己合并，拉取分支最新内容即可继续写稿；之前“ChatGPT 开工前自己合并 main”那条作废。Pika 除合并提交外，仍不直接改分支上的文件。
