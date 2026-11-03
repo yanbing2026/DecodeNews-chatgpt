@@ -1,1 +1,29 @@
-{"done":["26","27","28","29","30"],"next":"31","skipped":[]}
+{
+  "done": [
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "32",
+    "33",
+    "34",
+    "36",
+    "37"
+  ],
+  "next": "39",
+  "skipped": [
+    {
+      "job": "31",
+      "reason": "标题及所列报道均聚焦英国王室成员在安提瓜阅兵仪式遭遇暴雨的个人趣闻，报道以伞具和网络反应为主，属于娱乐/名人新闻禁区。"
+    },
+    {
+      "job": "35",
+      "reason": "与 job 31《King Charles Repeatedly Asks ‘Where’s the Umbrella?’ as Queen Camilla Takes Cover During Downpour》为同一场安提瓜阅兵暴雨事件及同一报道主题，确定重复。"
+    },
+    {
+      "job": "38",
+      "reason": "与已交稿 write-02《From Alaska to Michigan: Senate Candidates Face Critical Stakes in Closing Messages》所用 Associated Press/PBS 报道“In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn”完全相同，作为来源内容已覆盖，确定重复。"
+    }
+  ]
+}
