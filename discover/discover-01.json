@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Rain clears but flood risk remains high after destructive storms swamp normally arid US Southwest",
+    "title_zh_hint": "美国西南部四角地区遭遇异常强降雨和洪水，多地疏散、道路中断，部分地区临时调整选举安排。",
+    "section_hint": "美国本地/科学",
+    "why": "强降雨影响亚利桑那、科罗拉多、新墨西哥和犹他州，造成大范围洪水、居民疏散、基础设施受损，并已影响科罗拉多和犹他部分地区的投票安排。AP称至少一人死于洪水，另一宗死亡仍待确认；后续恢复和河流水位风险仍值得追踪。",
+    "outlets": [
+      {
+        "publisher": "The Associated Press",
+        "title": "Rain clears but flood risk remains high after destructive storms swamp normally arid US Southwest",
+        "url": "https://apnews.com/article/arizona-pagosa-springs-colorado-sedona-southwest-flooding-ee6777f8b21234d2243998b66294b92b"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Deadly flooding forces evacuations in Southwest as storm shifts east for Election Day",
+        "url": "https://kvia.com/environment/cnn-weather-environment/2026/11/02/historic-flooding-forces-evacuations-in-southwest-as-storm-shifts-east-for-election-day/"
+      },
+      {
+        "publisher": "The Weather Channel",
+        "title": "Pineapple express brought flooding, landslides to Southwest",
+        "url": "https://weather.com/2026/11/02/forecast/regional/atmospheric-river-flooding-california-southwest-halloween"
+      },
+      {
+        "publisher": "KJCT8",
+        "title": "Weather affects voting access in parts of Southwest Colorado ahead of Election Day",
+        "url": "https://www.kjct8.com/2026/11/03/weather-affects-voting-access-parts-southwest-colorado-ahead-election-day/"
+      },
+      {
+        "publisher": "The Washington Post",
+        "title": "Rivers hit historic levels in Southwest amid destructive floods",
+        "url": "https://www.washingtonpost.com/climate-environment/2026/11/02/floods-are-raising-western-lake-levels-water-crisis-still-grips-region/"
+      },
+      {
+        "publisher": "Source New Mexico",
+        "title": "New round of flooding leads to damage, evacuations in northern New Mexico, Navajo Nation",
+        "url": "https://sourcenm.com/2026/11/02/new-round-of-flooding-leads-to-damage-evacuations-in-northern-new-mexico-navajo-nation/"
+      },
+      {
+        "publisher": "The Durango Herald",
+        "title": "Heavy rainfall prompts evacuations, road closures across Southwest Colorado",
+        "url": "https://www.durangoherald.com/articles/news/heavy-rainfall-prompts-evacuations-and-road-closures-across-southwest-colorado/"
+      }
+    ],
+    "n_outlets": 7,
+    "veto_check": {
+      "entertainment": "pass",
+      "sports": "pass",
+      "homicide_crash": "pass",
+      "india_politics": "pass",
+      "promo": "pass",
+      "advice_column": "pass",
+      "foreign_politics": "pass"
+    },
+    "notes": "AP的同一通稿被ABC、Boston Globe、部分地方电视台等转载；这些转载未重复计入媒体数。CNN稿件通过KVIA的CNN Newsource页面阅读。死亡信息以AP最新报道为准：一人死亡，另一人疑似与洪水有关，死因仍待确认。"
+  },
+  {
+    "title": "New York state reports first measles-linked child death in over 30 years amid outbreak",
+    "title_zh_hint": "纽约州Lewis County一名儿童在麻疹疫情中死亡，是该州30多年来首次已知麻疹相关死亡。",
+    "section_hint": "科学/公共卫生",
+    "why": "这是纽约州30多年来首次已知麻疹相关死亡，发生在美国麻疹病例回升背景下，涉及疫苗接种、地方疫情应对和CDC死亡统计口径。州卫生部门截至10月24日记录纽约州今年178例麻疹病例；全国死亡统计中CDC与宾州州级报告存在差异，具有持续公共卫生报道价值。",
+    "outlets": [
+      {
+        "publisher": "Reuters",
+        "title": "New York state reports first measles-linked child death in over 30 years amid outbreak",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-york-reports-first-measles-linked-child-death-over-30-years-amid-outbreak-2026-11-02/"
+      },
+      {
+        "publisher": "The Associated Press",
+        "title": "Child dies of measles in New York’s first such death in 30 years",
+        "url": "https://apnews.com/article/new-york-child-measles-death-outbreak-4032239653c89f9f454e0ec630852930"
+      },
+      {
+        "publisher": "NBC News",
+        "title": "New York reports first measles death in more than 30 years",
+        "url": "https://www.nbcnewyork.com/news/health/new-york-first-measles-death-more-than-30-years/6566414/"
+      },
+      {
+        "publisher": "The Washington Post",
+        "title": "New York reports its first measles-associated death in more than 30 years",
+        "url": "https://www.washingtonpost.com/health/2026/11/02/new-york-reports-its-first-measles-associated-death-more-than-30-years/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Child in New York dies after contracting measles, governor says",
+        "url": "https://kvia.com/health/cnn-health/2026/11/02/child-in-new-york-dies-after-contracting-measles-governor-says/"
+      },
+      {
+        "publisher": "ABC News",
+        "title": "New York state reports 1st measles-associated death in over 30 years",
+        "url": "https://abcnews.com/Health/new-york-state-reports-1st-measles-death-30/story?id=137787620"
+      }
+    ],
+    "n_outlets": 6,
+    "veto_check": {
+      "entertainment": "pass",
+      "sports": "pass",
+      "homicide_crash": "pass",
+      "india_politics": "pass",
+      "promo": "pass",
+      "advice_column": "pass",
+      "foreign_politics": "pass"
+    },
+    "notes": "儿童年龄和疫苗接种状况未公开，州卫生部门以保护家属隐私为由不再披露个案细节。CDC报告的全国麻疹相关死亡数与宾州州级报告数存在差异，Reuters和Washington Post均指出统计口径正在协调；不应把不同口径数字简单相加。CNN报道通过KVIA的CNN Newsource页面阅读。"
+  }
+]
