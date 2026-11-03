@@ -27,7 +27,7 @@ Radio Iowa 援引 ACLU of Iowa 法律负责人 Rita Bettis Austen 的说法称�
 <<<CDB_EN>>>
 # Federal Judge Orders Iowa to Allow Satanic Temple to Hold a Holiday Event at the State Capitol
 
-A federal judge has ruled that Iowa officials must give the Satanic Temple of Iowa the same opportunity to obtain a permit for a holiday event at the State Capitol that has been made available to other religious groups. The court issued a preliminary injunction after the organization challenged the state’s repeated denials of its requests. The order is an interim ruling, not a final judgment in the case. The federal court is expected to consider whether a permanent injunction should follow.
+Chief District Judge Stephanie M. Rose on November 2 issued a preliminary injunction ordering Iowa officials to approve the Satanic Temple of Iowa’s application for a one-day holiday event at the State Capitol rotunda on December 12. The judge gave the Iowa Department of Administrative Services seven days to approve the application. The ruling found that the group was likely to succeed on its free-speech claim, but it does not end the broader lawsuit.
 
 ## Court requires equal treatment of religious groups
 
@@ -37,7 +37,7 @@ The ruling centers on the state’s treatment of applicants using a public venue
 
 ## Dispute follows an earlier Capitol display
 
-The organization previously installed a display in the Iowa Capitol Rotunda in 2023. Radio Iowa reported that the display was vandalized by a man from Mississippi who drove to Iowa after reading about the group’s plans. The organization later sought permission to hold holiday events, but officials rejected its requests over the next two years.
+The organization previously installed a display in the Iowa Capitol Rotunda in 2023. Radio Iowa reported that the display was vandalized by a man from Mississippi who drove to Iowa after reading about the group’s plans. The organization later sought permission to hold holiday events, and state officials rejected applications in multiple years. The 2026 application is the one addressed by the current injunction.
 
 The repeated denials led the group to argue that it was being treated differently from other religious organizations that had been allowed to use the same public space. The dispute therefore involves both access to a government venue and the constitutional limits on how officials may administer a permit system.
 
@@ -45,13 +45,13 @@ The repeated denials led the group to argue that it was being treated differentl
 
 The ACLU of Iowa filed a lawsuit in August, arguing that the denials violated the organization’s constitutional rights. During a news conference, senior staff attorney Shafali Aurora said the government cannot favor one religion over another or discriminate against religious groups because officials disagree with their beliefs. Legal director Rita Bettis Austen described the preliminary injunction as a correction to the way the state had handled the group’s requests.
 
-The court’s action is a preliminary injunction. Chief District Judge Stephanie M. Rose found that the group was likely to succeed on its free-speech claim, but the litigation continues. Iowa officials may appeal, and the state may apply the same ordinary security screening and event conditions used for other Capitol events.
+The court’s action is a preliminary injunction. Rose found that the group was likely to succeed on its free-speech claim. The state may still apply ordinary security screening and the same event conditions it applies to other groups. Iowa Attorney General Brenna Bird’s office said state officials intend to appeal.
 
 ## Permanent relief remains undecided
 
 Radio Iowa said the court will next consider whether to issue a permanent injunction. SFGATE reported that the state’s Attorney General’s office intends to appeal. The preliminary order requires approval of the December 12 event within seven days, while the broader litigation over past denials and constitutional claims continues.
 
-The event is scheduled for December 12, 2026. The ruling does not end the broader lawsuit, and the available reports do not establish the final outcome of claims involving prior denials or any damages.
+The event is scheduled for December 12, 2026. The ruling does not end the broader lawsuit, which continues to address prior denials and constitutional claims.
 
 ## Government neutrality is the central question
 
