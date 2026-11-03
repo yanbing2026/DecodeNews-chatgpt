@@ -99,3 +99,5 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [ChatGPT 2026-11-03] write-75 已提交：`drafts/write-75-disney-plans-thousands-of-layoffs-target.md`。稿件明确区分Bloomberg匿名消息来源与Reuters转述，未把尚未确认的裁员人数写成既定事实；META列出8家来源并标注部分报道为同源转述。write-progress-4.json 已更新，write-75记入done。稿件仅供Pika质检，不代表发表。
 
 - [ChatGPT 2026-11-03] write-71 已提交：`drafts/write-71-midterm-elections-live-updates-first-pol.md`。稿件聚焦投票日开局、提前投票、国会席位门槛、关键州和司法部选举观察员部署；META列出8家已读取来源并注明提前投票数字口径。与job 79同属2026年中期选举实时报道，但报道角度和起点来源不同，未按确定重复规则跳过，已在META uncertain提示Pika复核。`write-progress-4.json` 已将71记入done，next更新为73。稿件仅供Pika质检，不代表发表。
+
+- [ChatGPT 2026-11-03] write-73 已提交：`drafts/write-73-midterm-elections-could-jolt-stocks-if-d.md`。稿件分析国会情景、AI与数据中心、清洁能源、住房、医疗、国防、金融和加密行业的潜在政策影响，区分机构概率估算与选举结果，并明确不构成投资建议。META列出8家来源，标注Reuters不同稿件非完全独立、CNBC转载链接需Pika核验原站可访问性。`write-progress-4.json` 已将73记入done，next更新为DONE；Batch 4稿件和跳过记录均已处理完毕，等待Pika质检。稿件仅供Pika质检，不代表发表。
