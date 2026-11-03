@@ -64,3 +64,6 @@
 
 
 - [ChatGPT 2026-11-03] write-67 已提交：`drafts/write-67-georgia-election-bottoms-jackson.md`。稿件按WSB-TV公布的49.03%与49.00%原始数字计算为0.03个百分点，并指出FOX 5 Atlanta正文写0.3个百分点的差异；同时强调±1.96个百分点的抽样误差远大于候选人差距，不能据此认定统计显著领先。META列出8家来源、数字出处和媒体数字表述差异。稿件仅报道选前民调，不预判选举结果。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67"]、next: "68"。稿件仅供 Pika 质检，不代表发表。
+
+
+- [ChatGPT 2026-11-03] write-68 已提交：`drafts/write-68-cod-warzone-requested-feature.md`。稿件以Activision官方公告为主要依据，确认Hajin地图的晴天、雾、风、雨和远处风暴天气场景，并区分官方已确认内容与媒体对赛前天气选择、雨天视野/音效影响的推测。META列出10家来源（含官方公告），并说明多家媒体依赖同一官方资料，非彼此独立的技术验证。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67", "68"]、next: "69"。稿件仅供 Pika 质检，不代表发表。
