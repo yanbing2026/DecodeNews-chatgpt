@@ -64,7 +64,7 @@ Microsoft has not published a full breakdown of the costs attributed to The Coal
   "title_en": "Gears of War: E-Day’s Reported $500 Million Budget May Include Work Beyond the Game",
   "section": "科技",
   "sources": [
-    {"publisher":"Windows Central","title":"Gears of War: E-Day's "$500 million budget" story oversimplifies The Coalition's contribution to Xbox — Here's what's going on.","url":"https://www.windowscentral.com/gaming/xbox/gears-of-war-e-days-usd500-million-budget-story-over-simplifies"},
+    {"publisher":"Windows Central","title":"Gears of War: E-Day budget story oversimplifies The Coalition’s contribution to Xbox","url":"https://www.windowscentral.com/gaming/xbox/gears-of-war-e-days-usd500-million-budget-story-over-simplifies"},
     {"publisher":"GameSpot","title":"Gears Of War: E-Day's Apparent $500 Million Budget May Not Tell The Full Story - Report","url":"https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/"}
   ],
   "numbers_check": [
