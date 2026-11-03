@@ -1,0 +1,530 @@
+[
+ {
+  "job": "02",
+  "queue_id": "c46631da83317f5b",
+  "title": "From Alaska to Michigan, candidates highlight critical stakes of Senate control in closing messages",
+  "section_hint": "misc",
+  "n_sources": 17,
+  "short": "from-alaska-to-michigan",
+  "top_sources": [
+   {
+    "publisher": "The Economist",
+    "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate"
+   },
+   {
+    "publisher": "PBS",
+    "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Judge throws out attempt to delay Alaska Senate race"
+   }
+  ]
+ },
+ {
+  "job": "03",
+  "queue_id": "ad17a11b04922882",
+  "title": "Indicted ICE officer had been on the job a little over a year as Trump’s hiring surge comes under scrutiny",
+  "section_hint": "misc",
+  "n_sources": 40,
+  "short": "indicted-ice-officer-had",
+  "top_sources": [
+   {
+    "publisher": "CNN",
+    "title": "ICE officer indicted on allegations he ran over undocumented Mexican immigrant released on bond"
+   },
+   {
+    "publisher": "FOX 8 News",
+    "title": "I-Team: Cleveland police officer indicted on felony charges"
+   },
+   {
+    "publisher": "Houston Public Media",
+    "title": "Indicted ICE agent surrenders himself in Harris County court"
+   }
+  ]
+ },
+ {
+  "job": "04",
+  "queue_id": "babbb912b081dc04",
+  "title": "GO Wild Area 2026 Brings Trainer Backgrounds, Private Dynamax Battles, and More",
+  "section_hint": "tech",
+  "n_sources": 24,
+  "short": "go-wild-area-2026",
+  "top_sources": [
+   {
+    "publisher": "NHL.com",
+    "title": "Minnesota Wild, NHL and Fanatics Unveil Hometown Remix Uniform, Apparel and Headwear Collection"
+   },
+   {
+    "publisher": "Rapid7",
+    "title": "Additional Ivanti Connect Secure zero-days exploited in the wild (CVE-2026-111357, CVE-2026-118527)"
+   },
+   {
+    "publisher": "Pokémon GO",
+    "title": "Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar"
+   }
+  ]
+ },
+ {
+  "job": "05",
+  "queue_id": "c61029510d0f37dd",
+  "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
+  "section_hint": "tech",
+  "n_sources": 39,
+  "short": "south-of-midnight-director",
+  "top_sources": [
+   {
+    "publisher": "Kotaku",
+    "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It"
+   },
+   {
+    "publisher": "Insider Gaming",
+    "title": "South of Midnight Creative Director Says He Wouldn't Have Funded the Game"
+   },
+   {
+    "publisher": "https://tech-insider.org/",
+    "title": "David Sears: 3 Signs Xbox Funding Is Unsustainable [2026]"
+   }
+  ]
+ },
+ {
+  "job": "06",
+  "queue_id": "2c16e0a8ea380e69",
+  "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+  "section_hint": "misc",
+  "n_sources": 28,
+  "short": "texas-governor-race-tightens",
+  "top_sources": [
+   {
+    "publisher": "CNBC",
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored"
+   },
+   {
+    "publisher": "Politico",
+    "title": "Greg Abbott’s Texas Empire Is Showing Cracks"
+   },
+   {
+    "publisher": "KHOU",
+    "title": "Race for Texas Governor: Greg Abbott vs. Gina Hinojosa"
+   }
+  ]
+ },
+ {
+  "job": "07",
+  "queue_id": "c19d7a5de5b32495",
+  "title": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data",
+  "section_hint": "misc",
+  "n_sources": 49,
+  "short": "judge-dismisses-trump-lawsuit",
+  "top_sources": [
+   {
+    "publisher": "The New York Times",
+    "title": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Federal judge dismisses Trump administration’s Harvard admissions probe case"
+   },
+   {
+    "publisher": "WBUR",
+    "title": "Federal judge dismisses lawsuit against Harvard over federal demand for admissions data"
+   }
+  ]
+ },
+ {
+  "job": "08",
+  "queue_id": "d5e2692a59f9a7f9",
+  "title": "Inspector General Hits Pulte Over ‘Unprecedented’ Obstruction",
+  "section_hint": "politics",
+  "n_sources": 41,
+  "short": "inspector-general-hits-pulte",
+  "top_sources": [
+   {
+    "publisher": "Bloomberg.com",
+    "title": "Inspector General Hits Pulte Over ‘Unprecedented’ Obstruction"
+   },
+   {
+    "publisher": "WBFF",
+    "title": "Howard County council blocks IG’s bid for full access to government records"
+   },
+   {
+    "publisher": "Baltimore Sun",
+    "title": "Howard’s inspector general to remain without access, council votes"
+   }
+  ]
+ },
+ {
+  "job": "09",
+  "queue_id": "6371f71d1ec13fd6",
+  "title": "Midterms 2026: Chaos and campaigning in the final day before the election",
+  "section_hint": "misc",
+  "n_sources": 26,
+  "short": "midterms-2026-chaos-and",
+  "top_sources": [
+   {
+    "publisher": "ProPublica",
+    "title": "“Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day"
+   },
+   {
+    "publisher": "NBC News",
+    "title": "Economy, court fights and Dem chaos: Final days of the 2026 midterm race"
+   },
+   {
+    "publisher": "The Guardian",
+    "title": "How Trump and his allies seek to interfere in the US midterm elections"
+   }
+  ]
+ },
+ {
+  "job": "10",
+  "queue_id": "68e80fd9e1045120",
+  "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
+  "section_hint": "economy",
+  "n_sources": 21,
+  "short": "stock-market-news-november",
+  "top_sources": [
+   {
+    "publisher": "Yahoo Finance",
+    "title": "Stock market today: S&P 500 and Nasdaq extend tech sell-off, Dow gains as oil prices plunge"
+   },
+   {
+    "publisher": "Yahoo Finance",
+    "title": "Does Earnings Beat Change The Bull Case For Jazz Pharmaceuticals Stock (JAZZ)?"
+   },
+   {
+    "publisher": "CNN",
+    "title": "How Trump’s economic promises are holding up so far"
+   }
+  ]
+ },
+ {
+  "job": "11",
+  "queue_id": "ca7f639924f60c34",
+  "title": "Trump administration lays out plan to overhaul D.C. golf course",
+  "section_hint": "misc",
+  "n_sources": 44,
+  "short": "trump-administration-lays-out",
+  "top_sources": [
+   {
+    "publisher": "The New York Times",
+    "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Federal judge dismisses Trump administration’s Harvard admissions probe case"
+   },
+   {
+    "publisher": "Politico",
+    "title": "Judge tosses Trump administration’s admissions records lawsuit against Harvard"
+   }
+  ]
+ },
+ {
+  "job": "12",
+  "queue_id": "b22c6996c5ddf3e2",
+  "title": "Here’s what’s coming for the MacBook Pro next year, per report",
+  "section_hint": "tech",
+  "n_sources": 50,
+  "short": "here-s-what-s",
+  "top_sources": [
+   {
+    "publisher": "The Motley Fool",
+    "title": "Here’s What a $1,000 Investment in Oracle Stock Will Be Worth by 2030"
+   },
+   {
+    "publisher": "CNBC",
+    "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks"
+   },
+   {
+    "publisher": "Yahoo Finance",
+    "title": "Here's What $6,000 Invested in Micron Could Be Worth in 2028"
+   }
+  ]
+ },
+ {
+  "job": "13",
+  "queue_id": "b763b9779cc28c04",
+  "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+  "section_hint": "misc",
+  "n_sources": 46,
+  "short": "trump-administration-said-to",
+  "top_sources": [
+   {
+    "publisher": "AP News",
+    "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots"
+   },
+   {
+    "publisher": "CNN",
+    "title": "Federal judge dismisses Trump administration’s Harvard admissions probe case"
+   },
+   {
+    "publisher": "Reuters",
+    "title": "US judge dismisses Trump administration's Harvard admissions probe case"
+   }
+  ]
+ },
+ {
+  "job": "14",
+  "queue_id": "70c5227c366ccaab",
+  "title": "2026 Midterm Election: How many people have voted early in the US?",
+  "section_hint": "misc",
+  "n_sources": 44,
+  "short": "2026-midterm-election-how",
+  "top_sources": [
+   {
+    "publisher": "Forbes",
+    "title": "Hottest 2026 Midterm Races—Democrats Lead All 7 Key Senate Contests"
+   },
+   {
+    "publisher": "Forbes",
+    "title": "Hottest 2026 Midterm Races—Democrats Lead Almost All Major Senate Contests"
+   },
+   {
+    "publisher": "Al Jazeera",
+    "title": "US midterms 2026: What polls reveal about Democratic, Republican voters"
+   }
+  ]
+ },
+ {
+  "job": "15",
+  "queue_id": "5367c0ad2a2fc729",
+  "title": "An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to people.",
+  "section_hint": "science",
+  "n_sources": 44,
+  "short": "an-aging-1-5",
+  "top_sources": [
+   {
+    "publisher": "CBS News",
+    "title": "An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to "
+   },
+   {
+    "publisher": "Space",
+    "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?"
+   },
+   {
+    "publisher": "Gizmodo",
+    "title": "Voyager 1 Goes Silent Before Historic Light-Day Milestone"
+   }
+  ]
+ },
+ {
+  "job": "16",
+  "queue_id": "5b0817ad650a2f54",
+  "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+  "section_hint": "tech",
+  "n_sources": 29,
+  "short": "john-ternus-addresses-iphone",
+  "top_sources": [
+   {
+    "publisher": "9to5Mac",
+    "title": "John Ternus addresses iPhone Duo supply constraints, display issue"
+   },
+   {
+    "publisher": "MarketWatch",
+    "title": "Apple expects memory pressures to worsen by the end of the year"
+   },
+   {
+    "publisher": "Yahoo Finance",
+    "title": "Ternus touts Apple's $600B US manufacturing pledge on Q4 earnings call"
+   }
+  ]
+ },
+ {
+  "job": "17",
+  "queue_id": "f1f5880530090029",
+  "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn",
+  "section_hint": "misc",
+  "n_sources": 20,
+  "short": "in-an-alaska-fishing",
+  "top_sources": [
+   {
+    "publisher": "PBS",
+    "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn"
+   },
+   {
+    "publisher": "NPR",
+    "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses"
+   },
+   {
+    "publisher": "The Economist",
+    "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate"
+   }
+  ]
+ },
+ {
+  "job": "18",
+  "queue_id": "9ded5002cd1798fd",
+  "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg",
+  "section_hint": "tech",
+  "n_sources": 44,
+  "short": "google-is-quietly-hiding",
+  "top_sources": [
+   {
+    "publisher": "Polygon.com",
+    "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg"
+   },
+   {
+    "publisher": "Decrypt",
+    "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads"
+   },
+   {
+    "publisher": "Forbes",
+    "title": "Google Changed Gmail On October 16—Check Your Account Now"
+   }
+  ]
+ },
+ {
+  "job": "19",
+  "queue_id": "12ddecb94789a48b",
+  "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
+  "section_hint": "economy",
+  "n_sources": 43,
+  "short": "apple-beats-on-quarterly",
+  "top_sources": [
+   {
+    "publisher": "DW.com",
+    "title": "Can new Apple CEO John Ternus fix the tech giant's AI woes?"
+   },
+   {
+    "publisher": "Deadline",
+    "title": "Apple FYQ4 Revenue Tops Forecasts On iPhone Sales As New CEO John Ternus Steps Out"
+   },
+   {
+    "publisher": "MacRumors",
+    "title": "John Ternus Hosting His First Earnings Call as Apple CEO Today"
+   }
+  ]
+ },
+ {
+  "job": "20",
+  "queue_id": "addba3e2d0bc7cd4",
+  "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
+  "section_hint": "tech",
+  "n_sources": 25,
+  "short": "the-borderlands-series-has",
+  "top_sources": [
+   {
+    "publisher": "Borderlands | Official Website",
+    "title": "A message to the entire Borderlands community"
+   },
+   {
+    "publisher": "IGN",
+    "title": "'Big Plans Take Time, and We Need Some Room to Work' — Gearbox Calls on Fans to Help Shape the Next "
+   },
+   {
+    "publisher": "Eurogamer.net",
+    "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Border"
+   }
+  ]
+ },
+ {
+  "job": "21",
+  "queue_id": "e36ba517809bedf8",
+  "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+  "section_hint": "tech",
+  "n_sources": 42,
+  "short": "coming-in-2027-apple",
+  "top_sources": [
+   {
+    "publisher": "MLB.com",
+    "title": "All of the 2026-2027 free agents, position by position"
+   },
+   {
+    "publisher": "Ars Technica",
+    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights"
+   },
+   {
+    "publisher": "Trek Race Shop",
+    "title": "Lidl-Trek Future Racing: Building the next generation in 2027"
+   }
+  ]
+ },
+ {
+  "job": "22",
+  "queue_id": "bedbc3f761203c2c",
+  "title": "Is There Anything Left in the Dream of Cold Fusion?",
+  "section_hint": "tech",
+  "n_sources": 37,
+  "short": "is-there-anything-left",
+  "top_sources": [
+   {
+    "publisher": "Quanta Magazine",
+    "title": "Is There Anything Left in the Dream of Cold Fusion?"
+   },
+   {
+    "publisher": "Substack",
+    "title": "You Can Shear Everything: The Hurricane Watch for November 2nd"
+   },
+   {
+    "publisher": "Yahoo Sports",
+    "title": "Maple Leafs Have Something Nikita Kucherov Will Like"
+   }
+  ]
+ },
+ {
+  "job": "23",
+  "queue_id": "d44830764a5defaa",
+  "title": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+  "section_hint": "misc",
+  "n_sources": 18,
+  "short": "prediction-market-traders-now",
+  "top_sources": [
+   {
+    "publisher": "BBC",
+    "title": "Democrats have high hopes for midterms - but are the polls right?"
+   },
+   {
+    "publisher": "Fast Company",
+    "title": "This election forecast tool updates every 10 minutes. Here's what it's predicting about Democrats' c"
+   },
+   {
+    "publisher": "Quartz",
+    "title": "Kalshi and Polymarket traders back Democrats to win the Senate"
+   }
+  ]
+ },
+ {
+  "job": "24",
+  "queue_id": "08c94bcd3b65f817",
+  "title": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden",
+  "section_hint": "misc",
+  "n_sources": 53,
+  "short": "judge-cites-weaponization-in",
+  "top_sources": [
+   {
+    "publisher": "NBC News",
+    "title": "Judge dismisses case against ex-FBI agents accused on lying to Congress in Hunter Biden investigatio"
+   },
+   {
+    "publisher": "AP News",
+    "title": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden"
+   },
+   {
+    "publisher": "Axios",
+    "title": "Judge dismisses complaint against ex-FBI officials accused over Hunter Biden probe"
+   }
+  ]
+ },
+ {
+  "job": "25",
+  "queue_id": "4056a87180fae441",
+  "title": "Virgin Galactic unveils new spaceship Apeiron, targets commercial spaceflight return in 2027",
+  "section_hint": "economy",
+  "n_sources": 53,
+  "short": "virgin-galactic-unveils-new",
+  "top_sources": [
+   {
+    "publisher": "Fox Business",
+    "title": "Virgin Galactic unveils new spaceship Apeiron, targets commercial spaceflight return in 2027"
+   },
+   {
+    "publisher": "Space",
+    "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)"
+   },
+   {
+    "publisher": "FlightGlobal",
+    "title": "Virgin Galactic transfers first newly-designed spaceplane to base for flight testing"
+   }
+  ]
+ }
+]
