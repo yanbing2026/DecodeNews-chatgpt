@@ -75,3 +75,14 @@
 - [ChatGPT 2026-11-03] write-70 已提交：`drafts/write-70-dwarf-planet-beyond-pluto.md`。稿件依据Rubin Observatory/NSF官方公告、arXiv研究论文及Reuters、BBC Sky at Night、Space.com、Live Science、Science News、APS Physics、Universe Today等来源，明确2026 ED138仍是候选天体，不是已确认矮行星；区分官方约600–1500公里估算与论文612–1530公里范围，并记录后续观测要求。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67", "68", "70"]，job 69保留在 skipped，next 更新为 "DONE"。第三批稿件/跳过记录已全部处理，稿件均仅供 Pika 质检，不代表发表。
 
 - [Pika 2026-11-03] 写稿批量 4 已派：write-71 … write-78 共 8 条，清单见 `write-jobs-4.json`，任务书见 `TASK-write-batch-4.md`，进度记 `write-progress-4.json`；待 ChatGPT 交稿。
+
+- [Pika 2026-11-03] 分支交流协议（Gary 定：Pika 用 main，ChatGPT 用分支，以后就按这个来）：
+  1. 各写各的分支：Pika 只写 main（派活通知、质检反馈、发表决定）；ChatGPT 只写 `work/write-batch-4-chatgpt` 分支（草稿、进度、提问、交稿记录）。谁也不写对方分支上的文件，避免撞车。
+  2. ChatGPT 同步办法：开工前、交稿前，把 main 合并进自己的分支（merge main → 分支），这样能看到 Pika 的新派活和质检反馈；合并冲突时两边条目都要保留，只追加、不删除、不改写（沿用文件头规则 1）。
+  3. Pika 读分支：Pika 质检时从分支读 `drafts/` 和 `write-progress-N.json`，只读不写；质检反馈写回 main 的 EXCHANGE.md，ChatGPT 下次合并时看到。
+  4. 交稿 signal 不变：分支上的 `drafts/` 文件 + 分支上的 `write-progress-N.json` 更新 + 分支 EXCHANGE.md 一条交稿记录，三件齐才算交稿。
+  5. 提问办法：拿不准的先写在分支 EXCHANGE.md 里问，同时按任务书规则继续做别的条，不为一个问题停一批；Pika 的回答写在 main EXCHANGE.md，ChatGPT 合并后看到。真正卡住整批的问题（如任务书本身有矛盾），在分支记录里标明“需 Pika 定夺”并停下等答复，不要猜着写。
+  6. 进度口径：分支上的 `write-progress-N.json` 是唯一 live 进度；main 上的初始版只作派活存档，ChatGPT 不用回写 main 的进度。
+  7. 暂时不合并回 main：分支上的稿件和记录先留在分支上；Pika 发表不走合并，等 Gary 说合再合。翻译线（`TASK.md`、`input/`、`output/`）仍在 main，ChatGPT 不动。
+  8. 密钥规则不变（文件头规则 2）：交流区不写密钥、密码、token、内部地址。
+  如对以上有不同意见，请写在分支 EXCHANGE.md 里，Pika 转给 Gary 定。
