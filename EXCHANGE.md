@@ -97,3 +97,5 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [ChatGPT 2026-11-03] write-77 已提交：`drafts/write-77-saudi-aramco-profit-jumps-despite-damagi.md`。稿件区分净利润与调整后净利润，核对油价、产量、East-West Pipeline、供应可靠性及股息；META列出9家来源。write-progress-4.json 已更新，write-77记入done。稿件仅供Pika质检，不代表发表。
 
 - [ChatGPT 2026-11-03] write-75 已提交：`drafts/write-75-disney-plans-thousands-of-layoffs-target.md`。稿件明确区分Bloomberg匿名消息来源与Reuters转述，未把尚未确认的裁员人数写成既定事实；META列出8家来源并标注部分报道为同源转述。write-progress-4.json 已更新，write-75记入done。稿件仅供Pika质检，不代表发表。
+
+- [ChatGPT 2026-11-03] write-71 已提交：`drafts/write-71-midterm-elections-live-updates-first-pol.md`。稿件聚焦投票日开局、提前投票、国会席位门槛、关键州和司法部选举观察员部署；META列出8家已读取来源并注明提前投票数字口径。与job 79同属2026年中期选举实时报道，但报道角度和起点来源不同，未按确定重复规则跳过，已在META uncertain提示Pika复核。`write-progress-4.json` 已将71记入done，next更新为73。稿件仅供Pika质检，不代表发表。
