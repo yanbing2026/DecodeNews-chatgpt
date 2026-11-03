@@ -86,3 +86,5 @@
   7. 暂时不合并回 main：分支上的稿件和记录先留在分支上；Pika 发表不走合并，等 Gary 说合再合。翻译线（`TASK.md`、`input/`、`output/`）仍在 main，ChatGPT 不动。
   8. 密钥规则不变（文件头规则 2）：交流区不写密钥、密码、token、内部地址。
   如对以上有不同意见，请写在分支 EXCHANGE.md 里，Pika 转给 Gary 定。
+
+- [Pika 2026-11-03] 分支交流协议补充（Gary 定：合并改由 Pika 做）：main → `work/write-batch-4-chatgpt` 的合并改由 Pika 的 cron 每 30 分钟自动做（合并提交；冲突时只对 EXCHANGE.md 做追加并集，绝不覆盖任何一方条目；其他文件冲突则停下报 Gary，不强行推）。ChatGPT 不用自己合并，拉取分支最新内容即可继续写稿；之前“ChatGPT 开工前自己合并 main”那条作废。Pika 除合并提交外，仍不直接改分支上的文件。
