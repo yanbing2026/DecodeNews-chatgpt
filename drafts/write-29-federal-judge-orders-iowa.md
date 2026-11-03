@@ -1,11 +1,11 @@
 <<<CDB_ZH>>>
 # 联邦法官要求爱荷华州允许撒旦教会在州议会大厦举办节日活动
 
-一名联邦法官裁定，爱荷华州官员既然允许其他宗教团体在州议会大厦展示宗教内容并举办节日活动，就必须向 The Satanic Temple of Iowa 提供同等申请机会。法院发布初步禁令，暂时要求州政府不得以宗教立场为由区别对待该团体。案件仍未结束，法院之后还将决定是否发布永久禁令。
+美国联邦地区法院首席法官 Stephanie M. Rose 于11月2日发布初步禁令，要求爱荷华州在七天内批准 The Satanic Temple of Iowa 于12月12日在州议会大厦圆形大厅举办一日节日活动的申请。法官认为，该组织很可能在言论自由主张上胜诉。法院允许州政府对活动施加与其他活动相同的常规安全条件，但不能因活动内容或宗教观点而拒绝。
 
 ## 法院要求平等对待宗教团体
 
-Radio Iowa 11月2日报道，联邦法院认为，州政府不能一方面批准其他宗教团体在 Iowa Capitol 举办活动，另一方面拒绝 The Satanic Temple of Iowa 的类似申请。该组织希望在州议会大厦举行节日活动，州官员此前连续两年拒绝其申请。法官的初步禁令要求州政府在许可处理上遵守平等原则，而不是根据申请者的宗教身份决定是否开放公共场地。
+Radio Iowa 和 SFGATE 11月2日报道，法院要求州行政服务部门批准该组织的申请。活动计划包括 Krampus 服装、节日歌曲、儿童涂色和装饰品制作。法院认为，州官员提出的服装可能吓到儿童、道具木棍可能造成危险等理由，不足以排除整个活动。州政府仍可执行适用于其他州议会大厦活动的常规安检和场地规定。
 
 ## 争议延续自此前展示活动
 
@@ -31,7 +31,7 @@ A federal judge has ruled that Iowa officials must give the Satanic Temple of Io
 
 ## Court requires equal treatment of religious groups
 
-Radio Iowa reported on November 2 that the federal judge concluded state officials who approve permits for religious displays and holiday events at the Iowa Capitol must also provide a permit to the Satanic Temple of Iowa. The group had sought permission to hold holiday events at the Capitol, but state officials had denied its requests for the previous two years.
+Radio Iowa reported on November 2 that the federal judge concluded state officials who approve permits for religious displays and holiday events at the Iowa Capitol must also provide a permit to the Satanic Temple of Iowa. The group had sought permission to hold holiday events at the Capitol for several years. The 2026 application concerned a one-day event scheduled for December 12. The court ordered the Iowa Department of Administrative Services to approve the application within seven days.
 
 The ruling centers on the state’s treatment of applicants using a public venue. It does not require officials to endorse the group’s beliefs. Instead, it addresses whether the government can allow comparable religious activity by some groups while denying access to another group because of its religious identity or message.
 
@@ -45,13 +45,13 @@ The repeated denials led the group to argue that it was being treated differentl
 
 The ACLU of Iowa filed a lawsuit in August, arguing that the denials violated the organization’s constitutional rights. During a news conference, senior staff attorney Shafali Aurora said the government cannot favor one religion over another or discriminate against religious groups because officials disagree with their beliefs. Legal director Rita Bettis Austen described the preliminary injunction as a correction to the way the state had handled the group’s requests.
 
-The court’s action is a preliminary injunction. That distinction is important: it provides temporary relief while the litigation continues, but it does not settle every legal question in the case. The available report does not say that the court has issued a final ruling on all claims or determined what permanent remedy will apply.
+The court’s action is a preliminary injunction. Chief District Judge Stephanie M. Rose found that the group was likely to succeed on its free-speech claim, but the litigation continues. Iowa officials may appeal, and the state may apply the same ordinary security screening and event conditions used for other Capitol events.
 
 ## Permanent relief remains undecided
 
-Radio Iowa said the U.S. District Court will next consider whether to issue a permanent injunction. A permanent order could require Iowa officials to maintain a permit process that treats the group on the same terms as other applicants. Until that decision is made, the preliminary injunction governs the immediate dispute, subject to any further court orders.
+Radio Iowa said the court will next consider whether to issue a permanent injunction. SFGATE reported that the state’s Attorney General’s office intends to appeal. The preliminary order requires approval of the December 12 event within seven days, while the broader litigation over past denials and constitutional claims continues.
 
-The report does not provide a confirmed date for the next ruling, the precise schedule for the requested holiday event, or details of any final damages. Those issues should not be assumed from the preliminary order.
+The event is scheduled for December 12, 2026. The ruling does not end the broader lawsuit, and the available reports do not establish the final outcome of claims involving prior denials or any damages.
 
 ## Government neutrality is the central question
 
@@ -66,13 +66,15 @@ For now, the established result is limited: a federal judge ordered equal treatm
   "title_en": "Federal Judge Orders Iowa to Allow Satanic Temple to Hold a Holiday Event at the State Capitol",
   "section": "美国法律",
   "sources": [
-    {"publisher":"Radio Iowa","title":"Federal judge rules on Iowa Capitol permit for Satanic Temple","url":"https://www.radioiowa.com/2026/11/02/federal-judge-rules-on-iowa-capitol-permit-for-satanic-temple/"}
+    {"publisher":"Radio Iowa","title":"Federal judge rules on Iowa Capitol permit for Satanic Temple","url":"https://www.radioiowa.com/2026/11/02/federal-judge-rules-on-iowa-capitol-permit-for-satanic-temple/"},
+    {"publisher":"SFGATE","title":"Federal judge orders Iowa to allow Satanic Temple to hold one-day holiday event in the state Capitol","url":"https://www.sfgate.com/news/article/federal-judge-orders-iowa-to-allow-satanic-temple-22507319.php"}
   ],
   "numbers_check": [
+    {"数字":"12月12日","出处":"SFGATE：法院命令要求批准的节日活动日期"},
+    {"数字":"七天","出处":"SFGATE：法院要求州行政服务部门批准申请的期限"},
     {"数字":"2023年","出处":"Radio Iowa：The Satanic Temple 在 Iowa Capitol Rotunda 展示的年份"},
-    {"数字":"过去两年","出处":"Radio Iowa：州官员拒绝该组织节日活动申请的期间"},
-    {"数字":"8月","出处":"Radio Iowa：ACLU of Iowa 提起诉讼的月份；报道未提供具体年份日"}
+    {"数字":"2026年","出处":"ACLU of Iowa：当前被诉拒绝的活动申请年份"}
   ],
-  "uncertain": ["报道未提供法官姓名、具体法庭案号、下一次听证日期及节日活动具体日期，正文未补充。"]
+  "uncertain": ["初步禁令并非案件最终判决；州政府表示将上诉，后续效力以法院命令为准。"]
 }
 <<<CDB_DONE>>>
