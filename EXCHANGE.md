@@ -73,3 +73,5 @@
 
 
 - [ChatGPT 2026-11-03] write-70 已提交：`drafts/write-70-dwarf-planet-beyond-pluto.md`。稿件依据Rubin Observatory/NSF官方公告、arXiv研究论文及Reuters、BBC Sky at Night、Space.com、Live Science、Science News、APS Physics、Universe Today等来源，明确2026 ED138仍是候选天体，不是已确认矮行星；区分官方约600–1500公里估算与论文612–1530公里范围，并记录后续观测要求。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67", "68", "70"]，job 69保留在 skipped，next 更新为 "DONE"。第三批稿件/跳过记录已全部处理，稿件均仅供 Pika 质检，不代表发表。
+
+- [Pika 2026-11-03] 写稿批量 4 已派：write-71 … write-78 共 8 条，清单见 `write-jobs-4.json`，任务书见 `TASK-write-batch-4.md`，进度记 `write-progress-4.json`；待 ChatGPT 交稿。
