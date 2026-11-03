@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+    "title_zh_hint": "最高法院驳回特朗普政府要求暂缓处理加州约两万张争议邮寄选票的紧急请求。",
+    "section_hint": "美国政治",
+    "why": "这项裁决发生在中期选举前夕，直接影响加州约20,000张被联邦政府质疑选民资格的邮寄选票能否继续计入。法院未说明理由且迅速驳回申请，涉及联邦行政权、州选举管理权与选民权利之间的边界。",
+    "outlets": [
+      {
+        "publisher": "The Associated Press",
+        "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+        "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+      },
+      {
+        "publisher": "Fox News",
+        "title": "SCOTUS rejects Trump administration bid to segregate California mail-in ballots",
+        "url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots"
+      },
+      {
+        "publisher": "CNBC",
+        "title": "Supreme Court rejects DOJ bid to block California ballot count",
+        "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
+      },
+      {
+        "publisher": "The New York Times",
+        "title": "Supreme Court Rejects Trump Administration Request to Set Aside 20,000 California Ballots",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+      },
+      {
+        "publisher": "BBC News",
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.com/news/articles/cm5ynekkn5qko"
+      },
+      {
+        "publisher": "CalMatters",
+        "title": "U.S. Supreme Court rejects Trump in California ballot case",
+        "url": "https://calmatters.org/politics/2026/11/supreme-court-rejects-trump-ballot-case/"
+      },
+      {
+        "publisher": "The Hill",
+        "title": "Supreme Court rejects Trump administration's bid to set aside California ballots",
+        "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/"
+      },
+      {
+        "publisher": "Forbes",
+        "title": "Supreme Court Rejects Trump Administration's Bid To Set Aside 20,000 California Ballots",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/11/02/supreme-court-turns-down-trump-administrations-request-in-california-ballot-dispute/"
+      },
+      {
+        "publisher": "The Guardian",
+        "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – as it happened",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+      }
+    ],
+    "n_outlets": 9,
+    "veto_check": {
+      "entertainment": false,
+      "sports": false,
+      "homicide_crash": false,
+      "india_politics": false,
+      "promo": false,
+      "advice_column": false,
+      "foreign_politics": false
+    },
+    "notes": "各报道时间均落在本轮美东24小时窗口内；AP通稿被NBC Los Angeles、FOX43等转载，转载平台未重复计数。本站检索未发现同题已发表文章。Google News RSS端点本轮无法直接读取，因此是否位于指定栏目各自前25条仍待Pika复核。"
+  },
+  {
+    "title": "Marvell to acquire Lumentum in a $115 billion AI connectivity deal",
+    "title_zh_hint": "芯片厂商Marvell拟以约1150亿美元企业价值收购光通信设备商Lumentum，押注AI数据中心互连需求。",
+    "section_hint": "科技/商业",
+    "why": "这笔全股票交易将把Marvell的定制芯片、交换与互连业务，与Lumentum的激光器、光收发器及光子制造能力整合，目标是争夺AI数据中心高速光连接市场。交易规模、英伟达对双方的投资关系以及AI基础设施资本开支的可持续性，都使其具有产业与市场影响。",
+    "outlets": [
+      {
+        "publisher": "TechCrunch",
+        "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+        "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+      },
+      {
+        "publisher": "CNBC",
+        "title": "Marvell to buy Lumentum in all-stock deal",
+        "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
+      },
+      {
+        "publisher": "Bloomberg Law",
+        "title": "Marvell to Acquire Lumentum in Historic $115 Billion Deal (1)",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+      },
+      {
+        "publisher": "CBS News",
+        "title": "Marvell Technology to buy Lumentum in $115 billion AI connectivity deal",
+        "url": "https://www.cbsnews.com/news/marvell-lumentum-acquisition-ai-connectivity/"
+      },
+      {
+        "publisher": "The Register",
+        "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
+        "url": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028"
+      },
+      {
+        "publisher": "The Information",
+        "title": "Marvell to Buy Lumentum in $80 Billion All-Stock Deal",
+        "url": "https://www.theinformation.com/briefings/marvell-buy-lumentum-115-billion-all-stock-deal"
+      },
+      {
+        "publisher": "Silicon Valley Business Journal",
+        "title": "Marvell to acquire Lumentum in $115B all-stock deal, one of tech's largest ever",
+        "url": "https://www.bizjournals.com/sanjose/news/2026/11/02/marvell-lumentum-acquisition.html"
+      },
+      {
+        "publisher": "Benzinga",
+        "title": "Marvell to Buy Lumentum in $115 Billion All-Stock Deal",
+        "url": "https://www.benzinga.com/m-a/26/11/62777911/marvell-to-buy-lumentum-in-115-billion-all-stock-deal"
+      }
+    ],
+    "n_outlets": 8,
+    "veto_check": {
+      "entertainment": false,
+      "sports": false,
+      "homicide_crash": false,
+      "india_politics": false,
+      "promo": false,
+      "advice_column": false,
+      "foreign_politics": false
+    },
+    "notes": "不同媒体均在本轮美东24小时窗口内发布报道。估值口径需区分：约1150亿美元为企业价值，The Information标题采用约800亿美元股权价值口径，并非必然矛盾。CNBC另有Reuters通稿转载版本，本清单选用CNBC自己的采访报道，不重复计入Reuters转载。本站检索未发现同题已发表文章。Google News RSS端点本轮无法直接读取，因此是否位于指定栏目各自前25条仍待Pika复核。"
+  }
+]
