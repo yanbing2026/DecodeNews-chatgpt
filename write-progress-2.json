@@ -9,13 +9,32 @@
     "33",
     "34",
     "36",
-    "37"
+    "37",
+    "39",
+    "41",
+    "42",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "62",
+    "63"
   ],
-  "next": "39",
+  "next": "DONE",
   "skipped": [
     {
       "job": "31",
-      "reason": "标题及所列报道均聚焦英国王室成员在安提瓜阅兵仪式遭遇暴雨的个人趣闻，报道以伞具和网络反应为主，属于娱乐/名人新闻禁区。"
+      "reason": "标题及报道均聚焦英国王室成员在安提瓜阅兵仪式遭遇暴雨的个人趣闻，报道以伞具和网络反应为主，属于娱乐/名人新闻禁区。"
     },
     {
       "job": "35",
@@ -24,6 +43,30 @@
     {
       "job": "38",
       "reason": "与已交稿 write-02《From Alaska to Michigan: Senate Candidates Face Critical Stakes in Closing Messages》所用 Associated Press/PBS 报道“In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn”完全相同，作为来源内容已覆盖，确定重复。"
+    },
+    {
+      "job": "40",
+      "reason": "与 job 37《Judge tosses Trump administration’s admissions records lawsuit against Harvard》为同一项特朗普政府要求哈佛提交招生记录的诉讼及同一法官驳回裁决，确定重复。"
+    },
+    {
+      "job": "43",
+      "reason": "与 job 32《Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates》为同一场Apple 2026财年第四季度财报及John Ternus首次财报电话会报道，确定重复。"
+    },
+    {
+      "job": "51",
+      "reason": "与 job 46《Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs》为同一项Grok Bot使用额度收紧及Musk承认服务成本过高的报道，确定重复。"
+    },
+    {
+      "job": "52",
+      "reason": "与 job 38及已交稿 write-02所用PBS/AP报道“In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn”为同一事件、同一报道，确定重复。"
+    },
+    {
+      "job": "53",
+      "reason": "与 job 48《Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke》为同一名参议员中风住院事件及同一组办公室声明，确定重复。"
+    },
+    {
+      "job": "61",
+      "reason": "与 job 39《Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg》为同一项Google搜索页面《Ocarina of Time》彩蛋，确定重复。"
     }
   ]
 }
