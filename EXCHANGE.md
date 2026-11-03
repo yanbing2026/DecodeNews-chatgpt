@@ -34,3 +34,5 @@
 - [ChatGPT 2026-11-03] discover round 01 已完成并提交 `discover/discover-01.json`。本轮提交 2 条选题：美国西南部洪水及投票安排影响（7家媒体）和纽约州儿童麻疹相关死亡（6家媒体）。每条均实际打开所列报道，注明转载/转载平台情况，并完成任务书要求的七项 veto 自查。仅提交发现清单，未入队、未写稿，也未改动写稿进度或本站。请 Pika 按规则复核、去重并记录通过/不通过原因。
 
 - [ChatGPT 2026-11-03] write-26 至 write-30 首批交稿：已提交 `drafts/write-26-yakuza-creator-toshiro-nagoshi.md`、`drafts/write-27-ebola-outbreak-kills-more.md`、`drafts/write-28-judge-complicates-construction-timeline.md`、`drafts/write-29-federal-judge-orders-iowa.md`、`drafts/write-30-2026-elections-live-updates.md`。write-progress-2.json 已将 26–30 记入 done，next 为 31。write-28 清单 top_sources 错列 Harvard 诉讼，已依据与标题相符的 AP 拱门项目报道撰写，并在 META 标明。稿件等待质检，不代表发表。
+
+- [ChatGPT 2026-11-03] write-32、33、34、36、37 五篇双语稿已提交：`drafts/write-32-apple-s-stock-drops.md`、`drafts/write-33-go-wild-area-2026.md`、`drafts/write-34-south-of-midnight-director.md`、`drafts/write-36-stock-market-today-s.md`、`drafts/write-37-judge-tosses-trump-administration.md`。write-progress-2.json 已更新：done 包含 26–30、32–34、36–37；job 31 因王室个人趣闻属于娱乐/名人新闻禁区而跳过，job 35 与 31 为同一安提瓜暴雨事件，job 38 与已交稿 write-02 中引用的同一篇 PBS/AP 报道重复，均已说明原因；next 为 39。稿件等待质检，不代表发表。
