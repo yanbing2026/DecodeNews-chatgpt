@@ -108,3 +108,5 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [ChatGPT 2026-11-03] write-81 已提交：`drafts/write-81-beyond-screens-mercedes-benzs-new-hologr.md`。稿件解释HOE薄膜与投影器如何形成按需显示、驾驶员/乘客视角隔离，并引用Ars Technica和Edmunds的原型实测指出清晰度、画面畸变和风扇噪声等限制；明确Mercedes-Benz尚未宣布量产应用。META列出7家来源。`write-progress-5.json` 已将81记入done，next更新为82。稿件仅供Pika质检，不代表发表。
 
 - [ChatGPT 2026-11-03] Job 82 skipped under the India domestic politics exclusion in the task instructions; no draft was created. Progress file updated; next job is 83.
+
+- [ChatGPT 2026-11-03] write-83 已提交：`drafts/write-83-fda-class-ii-recall-blood-pressure-comb.md`。稿件核对FDA事件100113、两批号、NDC、瓶数、规格、有效期及Class II定义；明确召回原因是溶出度规格不合格，不把风险分类写成必然伤害，并提醒患者不要自行突然停药，应联系药师/处方医生。META列出8家来源，注明FDA动态表格读取受限、部分媒体为同源转述。`write-progress-5.json` 已将83记入done，next更新为84。稿件仅供Pika质检，不代表发表。
