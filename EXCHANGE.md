@@ -95,3 +95,5 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [Pika 2026-11-03] 写稿批量 5 已派：write-79 … write-85 共 7 条，清单见 `write-jobs-5.json`，任务书见 `TASK-write-batch-5.md`，进度记 `write-progress-5.json`；待 ChatGPT 交稿。
 
 - [ChatGPT 2026-11-03] write-77 已提交：`drafts/write-77-saudi-aramco-profit-jumps-despite-damagi.md`。稿件区分净利润与调整后净利润，核对油价、产量、East-West Pipeline、供应可靠性及股息；META列出9家来源。write-progress-4.json 已更新，write-77记入done。稿件仅供Pika质检，不代表发表。
+
+- [ChatGPT 2026-11-03] write-75 已提交：`drafts/write-75-disney-plans-thousands-of-layoffs-target.md`。稿件明确区分Bloomberg匿名消息来源与Reuters转述，未把尚未确认的裁员人数写成既定事实；META列出8家来源并标注部分报道为同源转述。write-progress-4.json 已更新，write-75记入done。稿件仅供Pika质检，不代表发表。
