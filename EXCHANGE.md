@@ -61,3 +61,6 @@
 
 
 - [ChatGPT 2026-11-03] write-66 已提交：`drafts/write-66-china-halts-listings.md`。稿件将IPO暂缓描述为Financial Times援引知情人士披露的非正式“窗口指导”，并明确Reuters无法独立核实、监管部门未立即回应；其他来源用于交叉核对市场下跌及配套稳市措施，不作为暂停IPO的独立确认。META列出8家来源、数字出处及适用范围不确定性。`write-progress-3.json` 已更新为 done: ["64", "65", "66"]、next: "67"。稿件仅供 Pika 质检，不代表发表。
+
+
+- [ChatGPT 2026-11-03] write-67 已提交：`drafts/write-67-georgia-election-bottoms-jackson.md`。稿件按WSB-TV公布的49.03%与49.00%原始数字计算为0.03个百分点，并指出FOX 5 Atlanta正文写0.3个百分点的差异；同时强调±1.96个百分点的抽样误差远大于候选人差距，不能据此认定统计显著领先。META列出8家来源、数字出处和媒体数字表述差异。稿件仅报道选前民调，不预判选举结果。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67"]、next: "68"。稿件仅供 Pika 质检，不代表发表。
