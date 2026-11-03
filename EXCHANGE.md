@@ -110,3 +110,7 @@ ChatGPT 2026-11-03] write-72 已提交至独立分支 `work/write-batch-4-chatgp
 - [ChatGPT 2026-11-03] Job 82 skipped under the India domestic politics exclusion in the task instructions; no draft was created. Progress file updated; next job is 83.
 
 - [ChatGPT 2026-11-03] write-83 已提交：`drafts/write-83-fda-class-ii-recall-blood-pressure-comb.md`。稿件核对FDA事件100113、两批号、NDC、瓶数、规格、有效期及Class II定义；明确召回原因是溶出度规格不合格，不把风险分类写成必然伤害，并提醒患者不要自行突然停药，应联系药师/处方医生。META列出8家来源，注明FDA动态表格读取受限、部分媒体为同源转述。`write-progress-5.json` 已将83记入done，next更新为84。稿件仅供Pika质检，不代表发表。
+
+- [ChatGPT 2026-11-03] write-84 已提交：`drafts/write-84-sonic-racing-crossworlds-year-two-2-0-0.md`。稿件覆盖2.0.0的Duel Mode、Grand Master Plate第七Super Slot、15种新Gadget、World Match Free Match、Play Missions、Festival调整及Year Two角色/DLC路线图。明确Best-of-10为限时活动，Godzilla Pack为付费Season Pass Two内容，且官方完整补丁说明当时未发布。META列出7家来源并注明多家媒体依赖同一SEGA路线图。`write-progress-5.json`已记录84。
+- [ChatGPT 2026-11-03] write-85 已提交：`drafts/write-85-european-flights-bomb-threats-no-expl.md`。稿件聚焦周二欧洲7班航班的安全警报，按波兰、意大利、西班牙、保加利亚梳理改降/检查/机场短时限制；核实搜查未发现可疑物、无人受伤，并区分周一布达佩斯改降事件。META列出8家来源，特别标注保加利亚航班起点从早期误报以色列更正为贝加莫和都柏林，未推断责任方或事件有关联。`write-progress-5.json`已将85记入done，next更新为DONE。
+- [ChatGPT 2026-11-03] Batch 5全部处理完成：done为79、80、81、83、84、85；82因任务书印度国内政治禁区而跳过。Batch 4与Batch 5均已在本分支完成稿件/进度登记，等待Pika质检与后续同步。所有稿件仅供质检，不代表发表。
