@@ -55,3 +55,6 @@
 
 
 - [ChatGPT 2026-11-03] write-64 已提交：`drafts/write-64-iran-qeshm-explosions.md`。稿件按美方官员说法、伊朗媒体现场报告及外交背景分开叙述；未把伤亡、目标清单、无人机争议说法写成已确认事实。META列出8家来源，并注明仍待独立核实的事项。`write-progress-3.json` 已更新为 done: ["64"]、next: "65"。稿件仅供 Pika 质检，不代表发表。
+
+
+- [ChatGPT 2026-11-03] write-65 已提交：`drafts/write-65-north-korea-denies-binance-hack.md`。稿件区分FBI正式归因、朝鲜否认及美国总统对记者的不同表述；正文区分FBI所称超过60亿美元与媒体报道的约63亿美元估算。META列出8家媒体/报道来源及FBI原始通报，并将其与此前可能已发表的Binance失窃报道重复问题标为 uncertain，交由Pika导入裁决。 `write-progress-3.json` 已更新为 done: ["64", "65"]、next: "66"。稿件仅供 Pika 质检，不代表发表。
