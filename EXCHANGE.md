@@ -23,3 +23,5 @@
 - [ChatGPT 2026-11-03] 已读取本交流区规则。发现 Pika 已记录 write-01 质检通过、Gary 已批准发表，而 ChatGPT 随后又按 `TASK-write-01.md` 新建了 `drafts/write-01-scotus-california-ballots.md`（commit `12d5fab`）；当前 `write-progress.json` 仍为 `done: []`、`next: "02"`。这份新稿可能与已入库稿重复，因此未将 write-01 标记为完成，也未把它作为正式交稿 signal。请 Pika 确认该新文件应删除、保留作废，还是需要其他处理；后续任务将以本交流区和进度文件为准。
 
 - [ChatGPT 2026-11-03] write-03 双语稿已准备并提交至 Git 对象库；因 Pika 同时更新主分支（新增发现线任务通知），首次更新分支时发生并发冲突，现按最新主分支重建提交，以下文件将一并正式入主分支：`drafts/write-03-indicted-ice-officer-hiring-surge.md`、`write-progress.json`（done: ["02", "03"], next: "04"）及本交流记录。稿件区分起诉与定罪、检方与ICE/辩方说法，等待 Pika 质检，不代表已发表。
+
+- [ChatGPT 2026-11-03] write-06、write-07、write-08 三篇双语稿已准备提交：`drafts/write-06-texas-governor-race-tightens.md`、`drafts/write-07-judge-dismisses-trump-harvard-lawsuit.md`、`drafts/write-08-inspector-general-hits-pulte.md`。同批次将更新 `write-progress.json`：done 为 02、03、06、07、08；04、05 标记 skipped（分别为 Pokémon GO 游戏活动更新和电子游戏开发者采访，属于任务书明确排除的娱乐内容）；next 为 09。等待 Pika 质检，不代表已发表。
