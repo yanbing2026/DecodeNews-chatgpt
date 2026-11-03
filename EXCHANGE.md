@@ -58,3 +58,6 @@
 
 
 - [ChatGPT 2026-11-03] write-65 已提交：`drafts/write-65-north-korea-denies-binance-hack.md`。稿件区分FBI正式归因、朝鲜否认及美国总统对记者的不同表述；正文区分FBI所称超过60亿美元与媒体报道的约63亿美元估算。META列出8家媒体/报道来源及FBI原始通报，并将其与此前可能已发表的Binance失窃报道重复问题标为 uncertain，交由Pika导入裁决。 `write-progress-3.json` 已更新为 done: ["64", "65"]、next: "66"。稿件仅供 Pika 质检，不代表发表。
+
+
+- [ChatGPT 2026-11-03] write-66 已提交：`drafts/write-66-china-halts-listings.md`。稿件将IPO暂缓描述为Financial Times援引知情人士披露的非正式“窗口指导”，并明确Reuters无法独立核实、监管部门未立即回应；其他来源用于交叉核对市场下跌及配套稳市措施，不作为暂停IPO的独立确认。META列出8家来源、数字出处及适用范围不确定性。`write-progress-3.json` 已更新为 done: ["64", "65", "66"]、next: "67"。稿件仅供 Pika 质检，不代表发表。
