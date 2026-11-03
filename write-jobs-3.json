@@ -1,0 +1,186 @@
+[
+  {
+    "job": "64",
+    "queue_id": "0e742a4dd680e515",
+    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "section_hint": "misc",
+    "n_sources": 43,
+    "short": "iran-qeshm-explosions",
+    "top_sources": [
+      {
+        "publisher": "Al Jazeera",
+        "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz"
+      },
+      {
+        "publisher": "شفق نيوز",
+        "title": "Shafaq News..Iran reports explosions near Qeshm Island"
+      },
+      {
+        "publisher": "Mehr News Agency",
+        "title": "Explosions heard on Qeshm Island, Bandar Lengeh"
+      },
+      {
+        "publisher": "NDTV",
+        "title": "US Strikes Iran's Qeshm Island, Hours Before Midterm Elections"
+      }
+    ],
+    "remark": "突发军事新闻，以读到的最新报道为准，时间线与各方说法分开写"
+  },
+  {
+    "job": "65",
+    "queue_id": "c59e77267812408b",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "section_hint": "economy",
+    "n_sources": 52,
+    "short": "north-korea-denies-binance-hack",
+    "top_sources": [
+      {
+        "publisher": "Fox Business",
+        "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says"
+      },
+      {
+        "publisher": "Reuters",
+        "title": "North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says"
+      },
+      {
+        "publisher": "Foreign Affairs",
+        "title": "North Korea’s Enemies Within"
+      },
+      {
+        "publisher": "Elliptic",
+        "title": "How North Korea is laundering the $6.4 billion stolen from Binance"
+      }
+    ],
+    "remark": "疑似与已发表币安被盗篇同一事件的不同角度（朝鲜否认），写时在 META 的 uncertain 里写明疑似重复对象，Pika 导入时裁决"
+  },
+  {
+    "job": "66",
+    "queue_id": "9f4348742b8b61ef",
+    "title": "China halts listings in bid to bolster struggling markets",
+    "section_hint": "economy",
+    "n_sources": 36,
+    "short": "china-halts-listings",
+    "top_sources": [
+      {
+        "publisher": "Financial Times",
+        "title": "China halts listings in bid to bolster struggling markets"
+      },
+      {
+        "publisher": "Bloomberg.com",
+        "title": "China Stocks Rise on Report of Regulator Market Support Meeting"
+      },
+      {
+        "publisher": "The Cattle Site",
+        "title": "China halts beef imports from MBRF plant in Brazil"
+      },
+      {
+        "publisher": "Reuters",
+        "title": "China halts LSE link over HK tensions - sources"
+      }
+    ]
+  },
+  {
+    "job": "67",
+    "queue_id": "e5ecd356dbac6f99",
+    "title": "Georgia election 2026: Only .03% separates Bottoms, Jackson in new poll - WSB",
+    "section_hint": "misc",
+    "n_sources": 31,
+    "short": "georgia-election-bottoms-jackson",
+    "top_sources": [
+      {
+        "publisher": "11Alive.com",
+        "title": "Georgia Election Coverage | How to watch live election results on 11Alive"
+      },
+      {
+        "publisher": "FOX 5 Atlanta",
+        "title": "Keisha Lance Bottoms delivers closing rally before Georgia vote"
+      },
+      {
+        "publisher": "WSB-TV",
+        "title": "Georgia election 2026: Only .03% separates Bottoms, Jackson in new poll"
+      },
+      {
+        "publisher": "Axios",
+        "title": "Trump's election probes find an opening in Georgia"
+      }
+    ]
+  },
+  {
+    "job": "68",
+    "queue_id": "1c2f9b1461007c00",
+    "title": "Call of Duty: Warzone Is Adding One of Its Most Requested Features Very Soon",
+    "section_hint": "tech",
+    "n_sources": 41,
+    "short": "cod-warzone-requested-feature",
+    "top_sources": [
+      {
+        "publisher": "Windows Central",
+        "title": "Here's what's new for Warzone when it integrates with Modern Warfare 4"
+      },
+      {
+        "publisher": "IGN",
+        "title": "Switch 2 Call of Duty: Modern Warfare 4 Players Suffer From 'Competitive Disadvantage'"
+      },
+      {
+        "publisher": "PC Gamer",
+        "title": "Call of Duty: Modern Warfare 4 review"
+      },
+      {
+        "publisher": "The Korea Herald",
+        "title": "Meet the Korean American stars behind controversial 'Call of Duty'"
+      }
+    ]
+  },
+  {
+    "job": "69",
+    "queue_id": "6235ce17e425fc1b",
+    "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+    "section_hint": "economy",
+    "n_sources": 42,
+    "short": "baked-by-melissa-target",
+    "top_sources": [
+      {
+        "publisher": "CNBC",
+        "title": "Baked by Melissa enters Target with first at-home cupcake mix"
+      },
+      {
+        "publisher": "Demokratis.co.id",
+        "title": "Baked by Melissa Launches Cupcake Kits Exclusively at Target"
+      },
+      {
+        "publisher": "Sporked",
+        "title": "Baked By Melissa Adds New Pink Buttercream Cupcake To Its Menu"
+      },
+      {
+        "publisher": "Dan’s Papers",
+        "title": "Knicks Season Begins, with Cupcakes"
+      }
+    ]
+  },
+  {
+    "job": "70",
+    "queue_id": "b3302de0de9cb2b5",
+    "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto",
+    "section_hint": "science",
+    "n_sources": 45,
+    "short": "dwarf-planet-beyond-pluto",
+    "top_sources": [
+      {
+        "publisher": "Fox News",
+        "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto"
+      },
+      {
+        "publisher": "Mashable",
+        "title": "Beyond Pluto: Observatory reveals new dwarf planet candidate"
+      },
+      {
+        "publisher": "Stanford Report",
+        "title": "Rubin spots dwarf planet candidate beyond Pluto"
+      },
+      {
+        "publisher": "BBC Sky at Night Magazine",
+        "title": "Scientists have found an enormous new dwarf planet beyond Pluto. And there could be many more"
+      }
+    ]
+  }
+]
