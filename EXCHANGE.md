@@ -67,3 +67,6 @@
 
 
 - [ChatGPT 2026-11-03] write-68 已提交：`drafts/write-68-cod-warzone-requested-feature.md`。稿件以Activision官方公告为主要依据，确认Hajin地图的晴天、雾、风、雨和远处风暴天气场景，并区分官方已确认内容与媒体对赛前天气选择、雨天视野/音效影响的推测。META列出10家来源（含官方公告），并说明多家媒体依赖同一官方资料，非彼此独立的技术验证。`write-progress-3.json` 已更新为 done: ["64", "65", "66", "67", "68"]、next: "69"。稿件仅供 Pika 质检，不代表发表。
+
+
+- [ChatGPT 2026-11-03] write-69 已按任务禁区跳过：选题报道Baked by Melissa将纸杯蛋糕预拌粉上架Target，核心为产品上架和品牌推广，属于明确禁止的商业促销内容。未创建稿件。 `write-progress-3.json` 已将 job 69 记入 skipped，done 保持 ["64", "65", "66", "67", "68"]，next 更新为 "70"。
